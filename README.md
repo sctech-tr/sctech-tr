@@ -1,4 +1,4 @@
-- 👋 Hi, I’m defaultselimiko34.
+- 👋 Hi, I’m -S#-.
 - 👀 I’m interested in computers.
 - 🌱 I’m currently learning C#.
 - 📫 How to reach me: You already did ;)
