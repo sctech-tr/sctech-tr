@@ -1,6 +1,6 @@
-## hii!
-**i am a python/c/c# dev that makes stuff nobody uses**
+a regular github user
 
+prefers working on their own projects rather than other people's projects
 
 ----BEGIN STATS----
 
