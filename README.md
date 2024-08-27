@@ -13,4 +13,4 @@
 
 ![Top Langs stat](https://github-readme-stats.vercel.app/api/top-langs/?username=sctech-tr&layout=compact&langs_count=8&theme=synthwave)
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sctech-tr&layout=compact&theme=synthwave)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sctech_tr&layout=compact&theme=synthwave)
