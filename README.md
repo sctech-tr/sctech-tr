@@ -1,7 +1,7 @@
 ### visitor counter!
 ![Visitor Count](https://profile-counter.glitch.me/sctech-tr/count.svg)
 
-<a href="https://sctech-tr.neocities.org/spotify">view what i am listening to right now!</a>
+<a href="https://sctech-tr.github.io/spotify.html">view what i am listening to right now!</a>
 
 [![wakatime](https://wakatime.com/badge/user/7dfbf33e-5d18-47f8-a436-063b5f5bece2.svg)](https://wakatime.com/@7dfbf33e-5d18-47f8-a436-063b5f5bece2)
 
