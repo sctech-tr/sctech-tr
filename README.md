@@ -12,4 +12,4 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sctech-tr&show_icons=true&theme=synthwave&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![Top Langs stat](https://github-readme-stats.vercel.app/api/top-langs/?username=sctech-tr&layout=compact&langs_count=8&theme=synthwave)
+![Top Langs stat](https://github-readme-stats.vercel.app/api/top-langs/?username=sctech-tr&layout=compact&langs_count=12&theme=synthwave)
