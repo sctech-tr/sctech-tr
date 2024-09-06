@@ -4,8 +4,21 @@ this is my github account. you can find various things and projects here.
 i am somebody that makes small but nice projects. i usually don't have ideas, so feel free to request a project (more details below)
 i use fedora's kde plasma spin. i also like fetch programs (i got 11 of them)
 anyways, for more info, visit <a href="https://sctech.mooo.com">my website</a>
+## i can speak:
+- Türkçe 🇹🇷
+- English 🇬🇧
+## contact me
+message form: https://sctech.mooo.com/send.html (preffered way)
 
-<span style="font-size:0.3em;">note: decode this text <a href="https://mariluu.hehe.moe/labrats/m/secretstorer">here</a>: t​‌‌​‌‌‌​h​‌‌​​‌​‌i​‌‌‌​‌‌​s​‌‌​​‌​‌ ​‌‌‌​​‌​m​​‌​​​​​e​‌‌​​‌‌‌s​‌‌​‌‌‌‌s​‌‌​‌‌‌​a​‌‌​‌‌‌​g​‌‌​​​​‌e​​‌​​​​​ ​‌‌​​‌‌‌h​‌‌​‌​​‌a​‌‌‌​‌‌​s​‌‌​​‌​‌ ​​‌​​​​​g​‌‌‌‌​​‌o​‌‌​‌‌‌‌t​‌‌‌​‌​‌ ​​‌​​​​​a​‌‌‌​‌​‌ ​‌‌‌​​​​s​‌‌‌​​​​ecret hidden ;)</span>
+email: gq2ic3wbe@mozmail.com (max mail size: 10mb)
+
+github: open an issue <a href="https://github.com/sctech-tr/issues">here.</here>
+<hr>
+yay
+<hr>
+bye for now!
+
+note: decode this text <a href="https://mariluu.hehe.moe/labrats/m/secretstorer">here</a>: t​‌‌​‌‌‌​h​‌‌​​‌​‌i​‌‌‌​‌‌​s​‌‌​​‌​‌ ​‌‌‌​​‌​m​​‌​​​​​e​‌‌​​‌‌‌s​‌‌​‌‌‌‌s​‌‌​‌‌‌​a​‌‌​‌‌‌​g​‌‌​​​​‌e​​‌​​​​​ ​‌‌​​‌‌‌h​‌‌​‌​​‌a​‌‌‌​‌‌​s​‌‌​​‌​‌ ​​‌​​​​​g​‌‌‌‌​​‌o​‌‌​‌‌‌‌t​‌‌‌​‌​‌ ​​‌​​​​​a​‌‌‌​‌​‌ ​‌‌‌​​​​s​‌‌‌​​​​ecret hidden ;)
 
 ## nice markdown thingies
 ![Visitor Count](https://profile-counter.glitch.me/sctech-tr/count.svg)
