@@ -8,7 +8,7 @@ anyways, for more info, visit <a href="https://sctech.mooo.com">my website</a>
 - Türkçe 🇹🇷
 - English 🇬🇧
 ## contact me
-message form: https://sctech.mooo.com/send.html (preffered way)
+message form: https://sctech.mooo.com/send.html (preferred way)
 
 email: gq2ic3wbe@mozmail.com (max mail size: 10mb)
 
