@@ -30,4 +30,4 @@ note: decode this text <a href="https://mariluu.hehe.moe/labrats/m/secretstorer"
 ![Top Langs stat](https://github-readme-stats.vercel.app/api/top-langs/?username=sctech-tr&layout=compact&langs_count=12&theme=synthwave)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=nudo&theme=transparent)](https://github.com/sctech-tr/nudo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=wcalc&theme=transparent)](https://github.com/sctech-tr/wcalc)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=statuspage&theme=transparent)](https://github.com/sctech-tr/statuspage)
