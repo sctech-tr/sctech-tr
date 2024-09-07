@@ -14,8 +14,6 @@ email: gq2ic3wbe@mozmail.com (max mail size: 10mb)
 
 github: open an issue <a href="https://github.com/sctech-tr/issues">here.</here>
 <hr>
-yay
-<hr>
 bye for now!
 
 note: decode this text <a href="https://mariluu.hehe.moe/labrats/m/secretstorer">here</a>: t​‌‌​‌‌‌​h​‌‌​​‌​‌i​‌‌‌​‌‌​s​‌‌​​‌​‌ ​‌‌‌​​‌​m​​‌​​​​​e​‌‌​​‌‌‌s​‌‌​‌‌‌‌s​‌‌​‌‌‌​a​‌‌​‌‌‌​g​‌‌​​​​‌e​​‌​​​​​ ​‌‌​​‌‌‌h​‌‌​‌​​‌a​‌‌‌​‌‌​s​‌‌​​‌​‌ ​​‌​​​​​g​‌‌‌‌​​‌o​‌‌​‌‌‌‌t​‌‌‌​‌​‌ ​​‌​​​​​a​‌‌‌​‌​‌ ​‌‌‌​​​​s​‌‌‌​​​​ecret hidden ;)
