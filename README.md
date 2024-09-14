@@ -33,15 +33,13 @@ note: decode this text <a href="https://mariluu.hehe.moe/labrats/m/secretstorer"
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sctech_tr&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 ## wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 17.6 kB Used in GitHub's Storage 
- > 
-> 🏆 435 Contributions in the Year 2024
+> 📦 17.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,7 +103,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sctech-tr/sctech-tr/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2024 11:10:02 UTC
+ Last Updated on 14/09/2024 18:42:06 UTC
 <!--END_SECTION:waka-->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=nudo&theme=transparent)](https://github.com/sctech-tr/nudo)
