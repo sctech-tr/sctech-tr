@@ -33,6 +33,79 @@ note: decode this text <a href="https://mariluu.hehe.moe/labrats/m/secretstorer"
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sctech_tr&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 ## wakatime stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2029%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 17.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 435 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 24 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                64 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+🌆 Daytime                154 commits         █████████░░░░░░░░░░░░░░░░   37.65 % 
+🌃 Evening                191 commits         ████████████░░░░░░░░░░░░░   46.70 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   61 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Tuesday                  81 commits          █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+Wednesday                69 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Thursday                 45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Friday                   34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Saturday                 101 commits         ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+Sunday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Istanbul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Shell                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/sctech-tr/sctech-tr/main/assets/bar_graph.png)
+
+
+ Last Updated on 14/09/2024 11:10:02 UTC
 <!--END_SECTION:waka-->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=nudo&theme=transparent)](https://github.com/sctech-tr/nudo)
