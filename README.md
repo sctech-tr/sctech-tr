@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/7dfbf33e-5d18-47f8-a436-063b5f5bece2.svg)](https://wakatime.com/@7dfbf33e-5d18-47f8-a436-063b5f5bece2)
 # welcome!
 this is my github account. you can find various things and projects here.
 ## about me
@@ -28,6 +29,11 @@ note: decode this text <a href="https://mariluu.hehe.moe/labrats/m/secretstorer"
 ![Stats](https://github-readme-stats.vercel.app/api?username=sctech-tr&show_icons=true&theme=synthwave&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![Top Langs stat](https://github-readme-stats.vercel.app/api/top-langs/?username=sctech-tr&layout=compact&langs_count=12&theme=synthwave)
+
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sctech_tr&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+## wakatime stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=nudo&theme=transparent)](https://github.com/sctech-tr/nudo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=statuspage&theme=transparent)](https://github.com/sctech-tr/statuspage)
