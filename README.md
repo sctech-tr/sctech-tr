@@ -20,6 +20,7 @@ bye for now!
 note: decode this text <a href="https://mariluu.hehe.moe/labrats/m/secretstorer">here</a>: t​‌‌​‌‌‌​h​‌‌​​‌​‌i​‌‌‌​‌‌​s​‌‌​​‌​‌ ​‌‌‌​​‌​m​​‌​​​​​e​‌‌​​‌‌‌s​‌‌​‌‌‌‌s​‌‌​‌‌‌​a​‌‌​‌‌‌​g​‌‌​​​​‌e​​‌​​​​​ ​‌‌​​‌‌‌h​‌‌​‌​​‌a​‌‌‌​‌‌​s​‌‌​​‌​‌ ​​‌​​​​​g​‌‌‌‌​​‌o​‌‌​‌‌‌‌t​‌‌‌​‌​‌ ​​‌​​​​​a​‌‌‌​‌​‌ ​‌‌‌​​​​s​‌‌‌​​​​ecret hidden ;)
 
 ## nice markdown thingies
+### visitor counter!
 ![Visitor Count](https://profile-counter.glitch.me/sctech-tr/count.svg)
 
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/sctech-tr/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/sctech-tr/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/sctech-tr/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
@@ -34,9 +35,6 @@ note: decode this text <a href="https://mariluu.hehe.moe/labrats/m/secretstorer"
 ## wakatime stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2056%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 18.0 kB Used in GitHub's Storage 
@@ -119,3 +117,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=nudo&theme=transparent)](https://github.com/sctech-tr/nudo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=statuspage&theme=transparent)](https://github.com/sctech-tr/statuspage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=osearch&theme=transparent)](https://github.com/sctech-tr/bluescreen-simulator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=wcakc&theme=transparent)](https://github.com/sctech-tr/wcalc)
