@@ -122,3 +122,6 @@ Swift                    1 repo              █░░░░░░░░░░�
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=statuspage&theme=transparent)](https://github.com/sctech-tr/statuspage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=osearch&theme=transparent)](https://github.com/sctech-tr/osearch)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=wcalc&theme=transparent)](https://github.com/sctech-tr/wcalc)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=sitemap-generator&theme=transparent)](https://github.com/sctech-tr/sitemap-generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=giant-textbox&theme=transparent)](https://github.com/sctech-tr/giant-textbox)
