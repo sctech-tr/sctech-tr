@@ -121,3 +121,4 @@ Swift                    1 repo              █░░░░░░░░░░�
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=osearch&theme=transparent)](https://github.com/sctech-tr/osearch)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=wcalc&theme=transparent)](https://github.com/sctech-tr/wcalc)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=giant-textbox&theme=transparent)](https://github.com/sctech-tr/giant-textbox)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=turkiye-il-plakalari-py&theme=transparent)](https://github.com/sctech-tr/turkiye-il-plakalari-py)
