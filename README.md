@@ -34,15 +34,13 @@ note: decode this text <a href="https://mariluu.hehe.moe/labrats/m/secretstorer"
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sctech_tr&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 ## wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 18.9 kB Used in GitHub's Storage 
- > 
-> 🏆 703 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,25 +75,25 @@ Sunday                   127 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-Other                    13 hrs 50 mins      ███████████████████████░░   93.08 % 
-HTML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Other                    10 hrs 6 mins       ████████████████████████░   94.15 % 
+HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+C#                       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-Firefox                  13 hrs 46 mins      ███████████████████████░░   92.53 % 
-VS Code                  1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Firefox                  10 hrs 1 min        ███████████████████████░░   93.40 % 
+VS Code                  42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
 
 🐱‍💻 Projects: 
-medium2freedium          3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
-openprofile              1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Untitled (Workspace)     1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-community                1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-candybar                 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+openprofile              1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Untitled (Workspace)     1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+community                1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+candybar                 1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+medium2freedium          1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
 
 💻 Operating System: 
-Linux                    14 hrs 52 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -115,7 +113,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sctech-tr/sctech-tr/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2024 18:46:47 UTC
+ Last Updated on 03/10/2024 18:46:13 UTC
 <!--END_SECTION:waka-->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=nudo&theme=transparent)](https://github.com/sctech-tr/nudo)
