@@ -19,7 +19,7 @@ bye for now!
 
 note: decode this text <a href="https://mariluu.hehe.moe/labrats/m/secretstorer">here</a>: t​‌‌​‌‌‌​h​‌‌​​‌​‌i​‌‌‌​‌‌​s​‌‌​​‌​‌ ​‌‌‌​​‌​m​​‌​​​​​e​‌‌​​‌‌‌s​‌‌​‌‌‌‌s​‌‌​‌‌‌​a​‌‌​‌‌‌​g​‌‌​​​​‌e​​‌​​​​​ ​‌‌​​‌‌‌h​‌‌​‌​​‌a​‌‌‌​‌‌​s​‌‌​​‌​‌ ​​‌​​​​​g​‌‌‌‌​​‌o​‌‌​‌‌‌‌t​‌‌‌​‌​‌ ​​‌​​​​​a​‌‌‌​‌​‌ ​‌‌‌​​​​s​‌‌‌​​​​ecret hidden ;)
 
-## nice markdown thingies
+## nice markdown stuff
 ### visitor counter!
 ![Visitor Count](https://profile-counter.glitch.me/sctech-tr/count.svg)
 
@@ -32,6 +32,8 @@ note: decode this text <a href="https://mariluu.hehe.moe/labrats/m/secretstorer"
 ![Top Langs stat](https://github-readme-stats.vercel.app/api/top-langs/?username=sctech-tr&layout=compact&langs_count=12&theme=synthwave)
 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sctech_tr&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://raw.githubusercontent.com/sctech-tr/sctech-tr/output/snake.svg" alt="Snake animation" />
 ## wakatime stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2036%20mins-blue)
