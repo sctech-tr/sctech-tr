@@ -35,91 +35,6 @@ note: decode this text <a href="https://mariluu.hehe.moe/labrats/m/secretstorer"
 
 <img src="https://raw.githubusercontent.com/sctech-tr/sctech-tr/output/snake.svg" alt="Snake animation" />
 
-## wakatime stats
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%205%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 18.6 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 27 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-🌆 Daytime                272 commits         ██████████░░░░░░░░░░░░░░░   38.26 % 
-🌃 Evening                381 commits         █████████████░░░░░░░░░░░░   53.59 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Tuesday                  113 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Wednesday                85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Thursday                 46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Friday                   75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Saturday                 186 commits         ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-Sunday                   130 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Istanbul
-
-💬 Programming Languages: 
-Other                    9 hrs               ███████████████░░░░░░░░░░   60.81 % 
-HTML                     3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Makefile                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-C                        23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-
-🔥 Editors: 
-Unknown Editor           12 hrs 41 mins      █████████████████████░░░░   85.73 % 
-VS Code                  2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Firefox                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-🐱‍💻 Projects: 
-website                  4 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   29.07 % 
-osearch                  1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-wwwterminal              1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-sctech-tr.github.io      1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-PWAsForFirefox           44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-
-💻 Operating System: 
-Linux                    14 hrs 48 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Shell                    5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/sctech-tr/sctech-tr/main/assets/bar_graph.png)
-
-
- Last Updated on 06/10/2024 18:44:01 UTC
-<!--END_SECTION:waka-->
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=nudo&theme=transparent)](https://github.com/sctech-tr/nudo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=statuspage&theme=transparent)](https://github.com/sctech-tr/statuspage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=osearch&theme=transparent)](https://github.com/sctech-tr/osearch)
@@ -127,3 +42,4 @@ Swift                    1 repo              ░░░░░░░░░░░�
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=giant-textbox&theme=transparent)](https://github.com/sctech-tr/giant-textbox)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=turkiye-il-plakalari-py&theme=transparent)](https://github.com/sctech-tr/turkiye-il-plakalari-py)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=tbct-wii&theme=transparent)](https://github.com/sctech-tr/tbct-wii)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=kanban&theme=transparent)](https://github.com/sctech-tr/kanban)
