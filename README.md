@@ -2,7 +2,7 @@
 # welcome!
 this is my github account. you can find various things and projects here.
 ## about me
-i am somebody that makes small but nice projects. i usually don't have ideas, so feel free to request a project (more details below)
+i am a developer that makes small but nice projects.
 i use fedora's kde plasma spin. i also like fetch programs (i got 14 of them)
 anyways, for more info, visit <a href="https://sctech.mooo.com">my website</a>
 ## i can speak:
