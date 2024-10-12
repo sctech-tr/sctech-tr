@@ -11,7 +11,7 @@ anyways, for more info, visit <a href="https://sctech.mooo.com">my website</a>
 ## contact me
 message form: https://sctech.mooo.com/send.html (preferred way)
 
-email: sctech@national.shitposting.agency
+email: gq2ic3wbe@mozmail.com
 
 github: open an issue <a href="https://github.com/sctech-tr/issues">here.</here>
 <hr>
