@@ -1,0 +1,52 @@
+name: a very normal workflow
+
+on:
+  schedule:
+    - cron: '0 7,14 * * *'  # Runs at 7:00 UTC (10:00 UTC+3) and 14:00 UTC (17:00 UTC+3)
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install PyGithub
+
+      - name: Update profile
+        env:
+          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          import os
+          from github import Github
+          from datetime import datetime, timedelta
+
+          g = Github(os.environ['PERSONAL_ACCESS_TOKEN'])
+          user = g.get_user()
+          
+          # time in türkiye
+          # need to adjust that for uhh obvious reasons
+          current_time = datetime.utcnow() + timedelta(hours=3)
+          
+          # info
+          pronouns = "they/it"
+          
+          current_bio = user.bio.split(" | ")[0] if " | " in user.bio else user.bio
+
+          if 10 <= current_time.hour < 17:
+              new_bio = current_bio
+          else:
+              new_bio = f"{current_bio} | {pronouns}"
+
+          user.edit(bio=new_bio)
+
+          print(f"bio updated to: {new_bio}")
+        shell: python
