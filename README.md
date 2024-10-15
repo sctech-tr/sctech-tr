@@ -11,7 +11,7 @@ anyways, for more info, visit <a href="https://sctech.mooo.com">my website</a>
 ## contact me
 message form: https://sctech.mooo.com/send.html (preferred way)
 
-email: gq2ic3wbe@mozmail.com
+email: gamerselimiko@gmail.com
 
 github: open an issue <a href="https://github.com/sctech-tr/issues">here.</here>
 <hr>
@@ -29,7 +29,7 @@ note: decode this text <a href="https://mariluu.hehe.moe/labrats/m/secretstorer"
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sctech-tr&show_icons=true&theme=synthwave&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![Top Langs stat](https://github-readme-stats.vercel.app/api/top-langs/?username=sctech-tr&layout=compact&langs_count=12&theme=synthwave)
+![Top Langs stat](https://github-readme-stats.vercel.app/api/top-langs/?username=sctech-tr&layout=compact&langs_count=100&theme=synthwave)
 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sctech_tr&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
