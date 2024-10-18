@@ -43,3 +43,5 @@ note: decode this text <a href="https://mariluu.hehe.moe/labrats/m/secretstorer"
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=turkiye-il-plakalari-py&theme=transparent)](https://github.com/sctech-tr/turkiye-il-plakalari-py)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=tbct-wii&theme=transparent)](https://github.com/sctech-tr/tbct-wii)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctech-tr&repo=kanban&theme=transparent)](https://github.com/sctech-tr/kanban)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=remote-shell&repo=server&theme=transparent&show_owner=true)](https://github.com/remote-shell/server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=remote-shell&repo=client&theme=transparent&show_owner=true)](https://github.com/remote-shell/client)
