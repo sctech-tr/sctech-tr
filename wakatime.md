@@ -1,0 +1,1 @@
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=sctech_tr&amp;layout=compact&amp;theme=synthwave&hide_border=true" alt="WakaTime stats"></a></p>
