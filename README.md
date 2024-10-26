@@ -22,7 +22,7 @@ i am **sctech** (he/they/it), a hobby developer who has simple but nice and usef
 - Türkçe (anadil / native) 🇹🇷
 - English (ikincil / secondary) 🇬🇧
 ## contact me
-message form: https://sctech.frii.site/send.html (preferred way)
+message form: https://sctech.mooo.com/send.html (preferred way)
 
 email: gamerselimiko@gmail.com
 
