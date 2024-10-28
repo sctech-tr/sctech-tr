@@ -10,7 +10,7 @@ i am **sctech** (he/they/it), a hobby developer who has simple but nice and usef
 <a href="https://github.com/sctech-tr/upm">upm</a> - a cross-distro package manager  
 <a href="https://github.com/remote-shell/server">rmsh (**r**e**m**ote **sh**ell)</a> - a self-hosted restricted shell that you can use to administrate servers or for fun!  
 <a href="https://github.com/lolch4t">lolchat</a> - a real-time chat app built with react.js that includes filters, rooms and more!  
-<a href="https://github.com/sctech-tr/sctech-tr.github.io">my website</a> - my (kinda useless) website that has fun things!  
+<a href="https://github.com/sctech-tr/website">my website</a> - my (kinda useless) website that has fun things!  
 <a href="https://github.com/sctech-tr/kanban">kanban</a> - a lightweight self-hosted kanban board with node.js
 ## my skills:
 <p align="center">
@@ -23,7 +23,7 @@ i am **sctech** (he/they/it), a hobby developer who has simple but nice and usef
 - Türkçe (anadil / native) 🇹🇷
 - English (ikincil / secondary) 🇬🇧
 ## contact me
-message form: https://sctech.mooo.com/send.html (preferred way)
+message form: https://sctech.netlify.app/send.html (preferred way)
 
 email: gamerselimiko@gmail.com
 
