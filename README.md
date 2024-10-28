@@ -7,6 +7,7 @@ i am **sctech** (he/they/it), a hobby developer who has simple but nice and usef
 <a href="https://github.com/openprofileproject/openprofile">openprofile</a> - an open-source profile builder  
 <a href="https://github.com/sctech-tr/betterfetch">betterfetch</a> - a powerful fetch script for.. well, every os that supports sh  
 <a href="https://github.com/sctech-tr/uselesscmd">theuselesscmd</a> - a shell full of useless commands  
+<a href="https://github.com/sctech-tr/lockedimg">lockedimg</a> - lock your images so nobody can see them :)  
 <a href="https://github.com/sctech-tr/upm">upm</a> - a cross-distro package manager  
 <a href="https://github.com/remote-shell/server">rmsh (**r**e**m**ote **sh**ell)</a> - a self-hosted restricted shell that you can use to administrate servers or for fun!  
 <a href="https://github.com/lolch4t">lolchat</a> - a real-time chat app built with react.js that includes filters, rooms and more!  
@@ -15,7 +16,7 @@ i am **sctech** (he/they/it), a hobby developer who has simple but nice and usef
 ## my skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,linux,bash,c,cs,dotnet,css,html,js,git,github,md,nginx,nodejs,py,visualstudio,vscode&perline=5" />
+    <img src="https://skillicons.dev/icons?i=arch,linux,bash,c,cs,dotnet,css,html,js,git,github,md,nginx,nodejs,py,rider,pycharm,idea,webstorm,clion,vscode,androidstudio&perline=5" />
   </a>
 </p>
 
