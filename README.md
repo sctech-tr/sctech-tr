@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/sctech-tr/count.svg)
 # hi!
-i am **sctech** (he/they/it), a hobby developer who has simple but nice and useful projects. some include:  
+i am **sctech**, a hobby developer who has simple but nice and useful projects. some include:  
 
 <a href="https://github.com/openprofileproject/openprofile">openprofile</a> - an open-source profile builder  
 <a href="https://github.com/sctech-tr/betterfetch">betterfetch</a> - a powerful fetch script for.. well, every os that supports sh  
