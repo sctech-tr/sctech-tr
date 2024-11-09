@@ -14,6 +14,8 @@ i am **sctech**, a hobby developer who has simple but nice and useful projects. 
 <a href="https://github.com/lolch4t">lolchat</a> - a real-time chat app built with react.js that includes filters, rooms and more!  
 <a href="https://github.com/sctech-tr/website">my website</a> - my (kinda useless) website that has fun things!  
 <a href="https://github.com/sctech-tr/kanban">kanban</a> - a lightweight self-hosted kanban board with node.js
+
+a very detailed list of my projects can be found <a href="projects.md">here</a>
 ## my skills:
 <p align="center">
   <a href="https://skillicons.dev">
