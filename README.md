@@ -34,7 +34,7 @@ a very detailed list of my projects can be found <a href="projects.md">here</a>
 - Türkçe (anadil / native) 🇹🇷
 - English (ikincil / secondary) 🇬🇧
 ## contact me
-message form: https://sctech.netlify.app/send.html (preferred way)  
+message form: https://sctech.netlify.app/send (preferred way)  
 email: gamerselimiko@gmail.com  
 github: open an issue <a href="https://github.com/sctech-tr/issues">here.</here>
 <hr>
