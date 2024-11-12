@@ -6,7 +6,7 @@ i am **sctech**, a hobby developer who has simple but nice and useful projects. 
 
 <a href="https://github.com/openprofileproject/openprofile">openprofile</a> - an open-source profile builder  
 <a href="https://github.com/sctech-tr/betterfetch">betterfetch</a> - a powerful fetch script for.. well, every os that supports sh  
-<a href="https://github.com/sctech-tr/scfetch">scfetch</a> - betterfetch sucks, use scfetch instead for better experience :)
+<a href="https://github.com/sctech-tr/scfetch">scfetch</a> - betterfetch sucks, use scfetch instead for better experience :)  
 <a href="https://github.com/sctech-tr/pythonOS">pythonOS</a> - an **entire** os in python! :snake:  
 <a href="https://github.com/sctech-tr/uselesscmd">theuselesscmd</a> - a shell full of useless commands  
 <a href="https://github.com/sctech-tr/lockedimg">lockedimg</a> - lock your images so nobody can see them :)  
