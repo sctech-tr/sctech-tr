@@ -22,7 +22,7 @@
 # R
 - <a href="https://github.com/remote-shell/server">rmsh (**r**e**m**ote **sh**ell)</a> - a self-hosted restricted shell that you can use to administrate servers or for fun!  
 - <a href="https://github.com/sctech-tr/readmii">readmii</a> - this app is handy when you need to read your documents, but you only have a wii and an sd card slot.
-- <a href="https://github.com/sctech-tr/returnhttp">betterfetch</a> - return the http status code based on the url. useful for testing browser capabilities
+- <a href="https://github.com/sctech-tr/returnhttp">returnhttp</a> - return the http status code based on the url. useful for testing browser capabilities
 - <a href="https://github.com/sctech-tr/rsstools">rsstools</a> - tools for managing rss feeds in python
 # S
 - <a href="https://github.com/sctech-tr/scfetch">scfetch</a> - the ultimate successor to <a href="https://github.com/dylanaraps/neofetch">neofetch</a> and <a href="https://github.com/sctech-tr/betterfetch">betterfetch</a>
