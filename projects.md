@@ -25,6 +25,7 @@
 - <a href="https://github.com/sctech-tr/returnhttp">betterfetch</a> - return the http status code based on the url. useful for testing browser capabilities
 - <a href="https://github.com/sctech-tr/rsstools">rsstools</a> - tools for managing rss feeds in python
 # S
+- <a href="https://github.com/sctech-tr/scfetch">scfetch</a> - the ultimate successor to <a href="https://github.com/dylanaraps/neofetch">neofetch</a> and <a href="https://github.com/sctech-tr/betterfetch">betterfetch</a>
 - <a href="https://github.com/sctech-tr/snakes-and-ladders-wii">snakes-and-ladders-wii</a> - a port of snakes and ladders for the wii
 - <a href="https://github.com/sctech-tr/statuspage">statuspage</a> - simple github workflow to check sites' status
 # T
