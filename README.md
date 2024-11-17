@@ -14,6 +14,7 @@ i am **sctech**, a hobby developer who has simple but nice and useful projects. 
 <a href="https://github.com/remote-shell/server">rmsh (**r**e**m**ote **sh**ell)</a> - a self-hosted restricted shell that you can use to administrate servers or for fun!  
 <a href="https://github.com/lolch4t">lolchat</a> - a real-time chat app built with react.js that includes filters, rooms and more!  
 <a href="https://github.com/sctech-tr/website">my website</a> - my (kinda useless) website that has fun things!  
+<a href="https://github.com/sctech-tr/sctech-tr/blob/main/tpaint.py">terminal paint</a> - paint but in your terminal  
 <a href="https://github.com/sctech-tr/kanban">kanban</a> - a lightweight self-hosted kanban board with node.js
 
 a very detailed list of my projects can be found <a href="projects.md">here</a>
