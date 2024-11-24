@@ -2,12 +2,13 @@
 - <a href="https://github.com/sctech-tr/betterfetch">betterfetch</a> - a powerful fetch script for systems that support sh  
 - <a href="https://github.com/sctech-tr/bluescreen-simulator">bluescreen-simulator</a> - a fake and harmless BSOD simulator!
 # G
+- <a href="https://github.com/sctech-tr/go-markdown">go-markdown</a> - a markdown editor made with svelte
 - <a href="https://github.com/sctech-tr/giant-textbox">giant-textbox</a> - a giant textbox for your iDevice!
 # K
 - <a href="https://github.com/sctech-tr/kanban">kanban</a> - simple but awesome lightweight self-hosted kanban board built with node.js
 # L
 - <a href="https://github.com/sctech-tr/lockedimg">lockedimg</a> - secure image locker in C that encrypts your images with a password and requires a password to decrypt them
-- <a href="https://github.com/lolch4t">lolchat</a> - a real-time chat app built with react.js that includes filters, rooms and more!
+- <a href="https://github.com/lolch4t">lolchat</a> - a real-time chat app built with react that includes filters, rooms and more!
 - <a href="https://github.com/lwytui/lwytui">lwytui</a> - an alternative user interface to YouTube.
 # M
 - <a href="https://github.com/sctech-tr/medium2freedium">medium2freedium</a> - adds https://freedium.cfd/ to medium articles. supports firefox and chromium.
