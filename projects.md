@@ -10,6 +10,7 @@
 - <a href="https://github.com/sctech-tr/lockedimg">lockedimg</a> - secure image locker in C that encrypts your images with a password and requires a password to decrypt them
 - <a href="https://github.com/lolch4t">lolchat</a> - a real-time chat app built with react that includes filters, rooms and more!
 - <a href="https://github.com/lwytui/lwytui">lwytui</a> - an alternative user interface to YouTube.
+- <a href="https://github.com/sctech-tr/libvpet">libvpet</a> - a virtual pet library for python
 # M
 - <a href="https://github.com/sctech-tr/medium2freedium">medium2freedium</a> - adds https://freedium.cfd/ to medium articles. supports firefox and chromium.
 # N
