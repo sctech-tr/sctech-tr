@@ -1,4 +1,4 @@
-way too much
+TODO: organize this into categories (python, webapps, shell etc.)
 
 # B
 - <a href="https://github.com/sctech-tr/betterfetch">betterfetch</a> - a powerful fetch script for systems that support sh  
@@ -25,6 +25,7 @@ way too much
 - <a href="https://github.com/sctech-tr/pythonOS">pythonOS</a> - an entire operating system in python! 🐍
 - <a href="https://github.com/sctech-tr/python-src">python-src</a> -  awesome one-file python scripts made by me
 - <a href="https://github.com/sctech-tr/pyserver">pyserver</a> -  a simple http server made in python. doesn't require any setup. run with one command.
+- <a href="https://git.gay/sctech/prideflags">prideflags</a> -  pride flags library for python 3.9+
 # R
 - <a href="https://github.com/remote-shell/server">rmsh (**r**e**m**ote **sh**ell)</a> - a self-hosted restricted shell that you can use to administrate servers or for fun!  
 - <a href="https://github.com/sctech-tr/readmii">readmii</a> - this app is handy when you need to read your documents, but you only have a wii and an sd card slot.
