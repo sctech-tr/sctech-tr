@@ -3,6 +3,8 @@ TODO: organize this into categories (python, webapps, shell etc.)
 # B
 - <a href="https://github.com/sctech-tr/betterfetch">betterfetch</a> - a powerful fetch script for systems that support sh  
 - <a href="https://github.com/sctech-tr/bluescreen-simulator">bluescreen-simulator</a> - a fake and harmless BSOD simulator!
+# E
+- <a href="https://github.com/sctech-tr/emoji-translator">emoji-translator</a> -  ✨ emoji translator app for android
 # G
 - <a href="https://github.com/sctech-tr/go-markdown">go-markdown</a> - a markdown editor made with svelte
 - <a href="https://github.com/sctech-tr/giant-textbox">giant-textbox</a> - a giant textbox for your iDevice!
