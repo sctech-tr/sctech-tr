@@ -7,7 +7,7 @@ i am **sctech**, a hobby developer who has simple but nice and useful projects. 
 - <a href="https://github.com/openprofileproject/openprofile">openprofile</a> - an open-source profile builder  
 - <a href="https://github.com/sctech-tr/scfetch">scfetch</a> - minimal fetch program in python for windows, linux and macos.
 - <a href="https://github.com/sctech-tr/uselesscmd">theuselesscmd</a> - a shell full of useless commands  
-- <a href="https://github.com/sctech-tr/lockedimg">lockedimg</a> - lock your images with aes-256 encryption so nobody can see them :)  
+- <a href="https://github.com/sctech-tr/emoji-translator">emoji-translator</a> - emoji translator app for android
 - <a href="https://github.com/sctech-tr/website">my website</a> - my personal website 
 - <a href="https://github.com/sctech-tr/tbct-wii">text-based controller test</a> - test your wii controllers!!
 
