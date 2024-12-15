@@ -3,6 +3,7 @@ TODO: organize this into categories (python, webapps, shell etc.)
 # B
 - <a href="https://github.com/sctech-tr/betterfetch">betterfetch</a> - a powerful fetch script for systems that support sh  
 - <a href="https://github.com/sctech-tr/bluescreen-simulator">bluescreen-simulator</a> - a fake and harmless BSOD simulator!
+- <a href="https://github.com/sctech-tr/breadblog">breadblog</a> - local microblogging platform for the web
 # E
 - <a href="https://github.com/sctech-tr/emoji-translator">emoji-translator</a> -  ✨ emoji translator app for android
 # G
@@ -46,7 +47,7 @@ TODO: organize this into categories (python, webapps, shell etc.)
 - <a href="https://github.com/sctech-tr/upm">upm</a> - cross-platform package manager
 - <a href="https://github.com/sctech-tr/uselesscmd">uselesscmd</a> - useless shell that has a bunch of useless commands. has password support and easter eggs :D
 # W
-- <a href="https://github.com/sctech-tr/wcalc">wcalc</a> - wcalc is a calculator
+- <a href="https://github.com/sctech-tr/wcalc">wcalc</a> - wcalc is a calculator for the wii
 - <a href="https://github.com/sctech-tr/website">website</a> - my personal website
 - <a href="https://github.com/sctech-tr/wiiRPS">wiiRPS</a> - port of rock paper scissors for the wii
 - <a href="https://github.com/wwwterminal/wwwterminal">wwwterminal</a> - terminal in the www
