@@ -1,3 +1,5 @@
+[![social anxiety](https://socialanxiety.vr.lt/banner.png)](https://socialanxiety.vr.lt)
+<hr>
 <p><a href="https://wakatime.com/@7dfbf33e-5d18-47f8-a436-063b5f5bece2"><img src="https://wakatime.com/badge/user/7dfbf33e-5d18-47f8-a436-063b5f5bece2.svg" alt="wakatime"></a></p>
 
 ![Visitor Count](https://profile-counter.glitch.me/sctech-tr/count.svg)
