@@ -11,7 +11,7 @@ i am **sctech**, a hobby developer who has simple but nice and useful projects. 
 - <a href="https://github.com/sctech-tr/scfetch">scfetch</a> - minimal fetch program in python for windows, linux and macos.
 - <a href="https://github.com/sctech-tr/uselesscmd">theuselesscmd</a> - a shell full of useless commands  
 - <a href="https://github.com/sctech-tr/emoji-translator">emoji-translator</a> - emoji translator app for android
-- <a href="https://github.com/sctech-tr/website">my website</a> - my personal website 
+- <a href="https://github.com/sctech-tr/socialanxiety">socialanxiety.vr.lt</a> - informational article/website about social anxiety
 - <a href="https://github.com/sctech-tr/tbct-wii">text-based controller test</a> - test your wii controllers!!
 
 a very detailed list of my projects can be found <a href="projects.md">here</a>
