@@ -1,4 +1,4 @@
-[![social anxiety banner](https://raw.githubusercontent.com/sctech-tr/socialanxiety/refs/heads/main/banner.png?token=GHSAT0AAAAAACZGX7SXZKSANTQTYNAVEBIKZ3QEWYA)](https://socialanxiety.vr.lt)
+[![social anxiety banner](https://raw.githubusercontent.com/sctech-tr/socialanxiety/main/banner.png)](https://socialanxiety.vr.lt)
 
 <hr>
 <p><a href="https://wakatime.com/@7dfbf33e-5d18-47f8-a436-063b5f5bece2"><img src="https://wakatime.com/badge/user/7dfbf33e-5d18-47f8-a436-063b5f5bece2.svg" alt="wakatime"></a></p>
