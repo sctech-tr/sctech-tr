@@ -1,5 +1,3 @@
-TODO: organize this into categories (python, webapps, shell etc.)
-
 # B
 - <a href="https://github.com/sctech-tr/betterfetch">betterfetch</a> - a powerful fetch script for systems that support sh  
 - <a href="https://github.com/sctech-tr/bluescreen-simulator">bluescreen-simulator</a> - a fake and harmless BSOD simulator!
@@ -37,8 +35,6 @@ TODO: organize this into categories (python, webapps, shell etc.)
 - <a href="https://github.com/sctech-tr/scfetch">scfetch</a> - the ultimate successor to <a href="https://github.com/dylanaraps/neofetch">neofetch</a> and <a href="https://github.com/sctech-tr/betterfetch">betterfetch</a>
 - <a href="https://github.com/sctech-tr/snakes-and-ladders-wii">snakes-and-ladders-wii</a> - a port of snakes and ladders for the wii
 - <a href="https://github.com/sctech-tr/statuspage">statuspage</a> - simple github workflow to check sites' status
-- <a href="https://github.com/sctech-tr/seasonal-buttons">seasonal-buttons</a> - 🌳 buttons that color themselves according to the current season!
-- <a href="https://github.com/sctech-tr/sendfile">sendfile</a> - 📜 send and recieve files across the local network 
 # T
 - <a href="https://github.com/sctech-tr/talkative">talkative</a> - simple uwp app that reads user input with tts
 - <a href="https://github.com/sctech-tr/tbct-wii">tbct-wii</a> - test your controllers!!
