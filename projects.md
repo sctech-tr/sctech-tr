@@ -22,17 +22,14 @@
 - <a href="https://github.com/openprofileproject/openprofile">openprofile</a> - a new and innovative way to create open-source, secure and customizable profiles.
 - <a href="https://github.com/sctech-tr/osearch">osearch</a> - flexible and simple new tab page
 # P
-- <a href="https://github.com/sctech-tr/powerscanner">powerscanner</a> - python-based file scanner
-- <a href="https://github.com/sctech-tr/pythonOS">pythonOS</a> - an entire operating system in python! 🐍
 - <a href="https://github.com/sctech-tr/python-src">python-src</a> -  awesome one-file python scripts made by me
 - <a href="https://git.gay/sctech/prideflags">prideflags</a> -  pride flags library for python 3.9+
 # R
-- <a href="https://github.com/remote-shell/server">rmsh (**r**e**m**ote **sh**ell)</a> - a self-hosted restricted shell that you can use to administrate servers or for fun! (DEPRECATED)  
 - <a href="https://github.com/sctech-tr/readmii">readmii</a> - this app is handy when you need to read your documents, but you only have a wii and an sd card slot.
 - <a href="https://github.com/sctech-tr/returnhttp">returnhttp</a> - return the http status code based on the url. useful for testing browser capabilities
 - <a href="https://github.com/sctech-tr/rsstools">rsstools</a> - tools for managing rss feeds in python
 # S
-- <a href="https://github.com/sctech-tr/scfetch">scfetch</a> - the ultimate successor to <a href="https://github.com/dylanaraps/neofetch">neofetch</a> and <a href="https://github.com/sctech-tr/betterfetch">betterfetch</a>
+- <a href="https://github.com/sctech-tr/scfetch">scfetch</a> - the ultimate successor to <a href="https://github.com/sctech-tr/betterfetch">betterfetch</a>
 - <a href="https://github.com/sctech-tr/snakes-and-ladders-wii">snakes-and-ladders-wii</a> - a port of snakes and ladders for the wii
 - <a href="https://github.com/sctech-tr/statuspage">statuspage</a> - simple github workflow to check sites' status
 # T
