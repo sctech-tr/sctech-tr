@@ -2,8 +2,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/sctech-tr/count.svg)
 # hi!
-i am **sctech**, a hobby developer who has simple but nice and useful projects. my personal favorites are:  
-
+some repos :p
 - <a href="https://github.com/openprofileproject/openprofile">openprofile</a> - an open-source profile builder  
 - <a href="https://github.com/sctech-tr/scfetch">scfetch</a> - minimal fetch program in python for windows, linux and macos.
 - <a href="https://github.com/sctech-tr/liborganizer">liborganizer</a> - organize your library!
