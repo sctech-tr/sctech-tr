@@ -1,6 +1,4 @@
 <p><a href="https://wakatime.com/@7dfbf33e-5d18-47f8-a436-063b5f5bece2"><img src="https://wakatime.com/badge/user/7dfbf33e-5d18-47f8-a436-063b5f5bece2.svg" alt="wakatime"></a></p>
-
-![Visitor Count](https://profile-counter.glitch.me/sctech-tr/count.svg)
 # hi!
 some repos :p
 - <a href="https://github.com/openprofileproject/openprofile">openprofile</a> - an open-source profile builder  
@@ -10,7 +8,7 @@ some repos :p
 - <a href="https://github.com/sctech-tr/website">my website</a> - my personal website
 - <a href="https://github.com/sctech-tr/tbct-wii">text-based controller test</a> - test your wii controllers!!
 
-a very detailed list of my projects can be found <a href="projects.md">here</a>
+a very very detailed list of my projects can be found <a href="projects.md">here</a>
 <details>
   <summary>github stats :)</summary>
 <p><img src="https://github-readme-stats.vercel.app/api?username=sctech-tr&amp;show_icons=true&amp;theme=synthwave&amp;show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true" alt="Stats"></p>
