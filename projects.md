@@ -24,7 +24,6 @@
 - <a href="https://github.com/sctech-tr/osearch">osearch</a> - flexible and simple new tab page
 # P
 - <a href="https://github.com/sctech-tr/python-src">python-src</a> -  awesome one-file python scripts made by me
-- <a href="https://git.gay/sctech/prideflags">prideflags</a> -  pride flags library for python 3.9+
 # R
 - <a href="https://github.com/sctech-tr/readmii">readmii</a> - this app is handy when you need to read your documents, but you only have a wii and an sd card slot.
 - <a href="https://github.com/sctech-tr/returnhttp">returnhttp</a> - return the http status code based on the url. useful for testing browser capabilities
@@ -44,4 +43,4 @@
 - <a href="https://github.com/sctech-tr/wcalc">wcalc</a> - wcalc is a calculator for the wii
 - <a href="https://github.com/sctech-tr/website">website</a> - my personal website
 - <a href="https://github.com/sctech-tr/wiiRPS">wiiRPS</a> - port of rock paper scissors for the wii
-- <a href="https://github.com/wwwterminal/wwwterminal">wwwterminal</a> - terminal in the www
+- <a href="https://github.com/sctech-tr/wwwterminal">wwwterminal</a> - terminal in a page
