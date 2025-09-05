@@ -1,6 +1,6 @@
 <p><a href="https://wakatime.com/@7dfbf33e-5d18-47f8-a436-063b5f5bece2"><img src="https://wakatime.com/badge/user/7dfbf33e-5d18-47f8-a436-063b5f5bece2.svg" alt="wakatime"></a></p>
 
-[![Last.FM Last Played Song](https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/sctech/latest-song?format=shields.io)](https://github.com/biancarosa/lastfm-last-played)
+[![Last.FM Last Played Song](https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/sctech/latest-song?format=shields.io)](https://www.last.fm/user/sctech)
 
 # hi!
 
