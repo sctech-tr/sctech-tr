@@ -24,6 +24,7 @@
 - <a href="https://github.com/sctech-tr/osearch">osearch</a> - flexible and simple new tab page
 # P
 - <a href="https://github.com/sctech-tr/python-src">python-src</a> -  awesome one-file python scripts made by me
+- <a href="https://github.com/sctech-tr/peacefulmobs">peacefulmobs</a> - remove mob hostility
 # R
 - <a href="https://github.com/sctech-tr/readmii">readmii</a> - this app is handy when you need to read your documents, but you only have a wii and an sd card slot.
 - <a href="https://github.com/sctech-tr/returnhttp">returnhttp</a> - return the http status code based on the url. useful for testing browser capabilities
