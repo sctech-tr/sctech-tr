@@ -17,6 +17,7 @@
 - <a href="https://github.com/sctech-tr/libvpet">libvpet</a> - a virtual pet library for python
 # M
 - <a href="https://github.com/sctech-tr/medium2freedium">medium2freedium</a> - adds https://freedium.cfd/ to medium articles. supports firefox and chromium.
+- <a href="https://github.com/sctech-tr/mines-simulator">mines-simulator</a> - game for bloxd (https://github.com/Bloxdy/code-api)
 # N
 - <a href="https://github.com/sctech-tr/nudo">nudo</a> - normal user do
 # O
