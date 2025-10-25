@@ -14,8 +14,8 @@ a very very detailed list of my projects can be found <a href="projects.md">here
         <th colspan="3"><a href="https://octo-ring.com">🐙 octo ring 🐙</a></th>
     </thead>
     <tbody>
-        <td><a href="https://octo-ring.com/p/backwardspy/prev">⏮️</a></td>
-        <td><a href="https://octo-ring.com/p/backwardspy/random">🔀</a></td>
-        <td><a href="https://octo-ring.com/p/backwardspy/next">⏭️</a></td>
+        <td><a href="https://octo-ring.com/p/sctech-tr/prev">⏮️</a></td>
+        <td><a href="https://octo-ring.com/p/sctech-tr/random">🔀</a></td>
+        <td><a href="https://octo-ring.com/p/sctech-tr/next">⏭️</a></td>
     </tbody>
 </table>
