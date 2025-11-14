@@ -9,13 +9,4 @@ a very very detailed list of my projects can be found <a href="projects.md">here
 <p><img src="https://github-readme-stats.vercel.app/api?username=sctech-tr&amp;show_icons=true&amp;theme=synthwave&amp;show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true" alt="Stats"></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sctech-tr&amp;layout=compact&amp;langs_count=100&amp;theme=synthwave&hide_border=true" alt="Top Langs stat"></p>
 </details>
-<table>
-    <thead>
-        <th colspan="3"><a href="https://octo-ring.com">🐙 octo ring 🐙</a></th>
-    </thead>
-    <tbody>
-        <td><a href="https://octo-ring.com/p/sctech-tr/prev">⏮️</a></td>
-        <td><a href="https://octo-ring.com/p/sctech-tr/random">🔀</a></td>
-        <td><a href="https://octo-ring.com/p/sctech-tr/next">⏭️</a></td>
-    </tbody>
-</table>
+
