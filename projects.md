@@ -1,6 +1,7 @@
 # B
 - <a href="https://github.com/sctech-tr/betterfetch">betterfetch</a> - a powerful fetch script for systems that support sh  
 - <a href="https://github.com/sctech-tr/bluescreen-simulator">bluescreen-simulator</a> - a fake and harmless BSOD simulator!
+- <a href="https://github.com/sctech-tr/bookscan">bookscan</a> - take inventory of your library!
 - <a href="https://github.com/sctech-tr/breadblog">breadblog</a> - local microblogging platform for the web
 # E
 - <a href="https://github.com/sctech-tr/emoji-translator">emoji-translator</a> -  ✨ emoji translator app for android
@@ -16,7 +17,7 @@
 - <a href="https://github.com/sctech-tr/liborganizer">liborganizer</a> - organize your library!
 - <a href="https://github.com/sctech-tr/libvpet">libvpet</a> - a virtual pet library for python
 # M
-- <a href="https://github.com/sctech-tr/medium2freedium">medium2freedium</a> - adds https://freedium.cfd/ to medium articles. supports firefox and chromium.
+- <a href="https://github.com/sctech-tr/medium2freedium">medium2freedium</a> - adds https://freedium-mirror.cfd/ to medium articles. supports firefox and chromium.
 - <a href="https://github.com/sctech-tr/mines-simulator">mines-simulator</a> - game for bloxd (https://github.com/Bloxdy/code-api)
 # N
 - <a href="https://github.com/sctech-tr/nudo">nudo</a> - normal user do
